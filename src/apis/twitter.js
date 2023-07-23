@@ -1,7 +1,8 @@
 const axios = require("axios");
 const dayjs = require("dayjs");
 
-const baseURL = 'https://rsshub.wangdaodao.com/twitter/user/hidaodao/includeRts=0.json';
+const baseURL = 'https://rsshub.app/twitter/user/hidaodao/exclude_rts_replies=0.json';
+// https://rsshub.app/twitter/user/hidaodao/exclude_rts_replies
 
 const twitter = async () => {
   const res = await axios.request({
