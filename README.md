@@ -2,23 +2,45 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2023-03-21 13:31.</p>
-<img width="100%" align="center" src="https://raw.fastgit.org/wangdaodao/wangdaodao/master/img/snake.svg?t=1679376703702" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2023-07-23 13:45.</p>
+<img width="100%" align="center" src="https://raw.fastgit.org/wangdaodao/wangdaodao/preview/github-contribution-grid-snake.svg?t=1690091157480" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>汝真是个烂好人—— 佚名</blockquote>
+<blockquote>甲之蜜糖，乙之砒霜。—— 亦舒</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=spring+equinox&amp;form=hpcapt&amp;filters=HpDate%3a%2220230320_0700%22" rel="nofollow">
-  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.PurpleCrocus_EN-US4432411089_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Hello spring!" />
+<a href="https://www.bing.com/search?q=hammock+camping&amp;form=hpcapt&amp;filters=HpDate%3a%2220230722_0700%22" rel="nofollow">
+  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.HammockDay_EN-US1639653297_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Want to hang out?" />
   <br  />
-  <em>Crocus flowers (© Raimund Linke/Getty Images)</em>
+  <em>Hammock camping in a bald cypress tree, Florida (© Mac Stone/Tandem Stills + Motion)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
-  <!-- BLOG-POST-LIST:START --><li><a href='https://wangdaodao.com/20230709/padavan.html' target='_blank'>padavan的一些使用整理</a><em>   [2023-07-09]</em></li><li><a href='https://wangdaodao.com/20230515/getBoundingClientRect-transform.html' target='_blank'>getBoundingClientRect与transform的兼容</a><em>   [2023-05-15]</em></li><li><a href='https://wangdaodao.com/20230329/vue-component-i18n.html' target='_blank'>给Vue组件加上国际化支持</a><em>   [2023-03-29]</em></li><li><a href='https://wangdaodao.com/20230327/solve-nrm-error.html' target='_blank'>关于NRM报错的解决方法</a><em>   [2023-03-27]</em></li><li><a href='https://wangdaodao.com/20230217/open-source.html' target='_blank'>关于core-js和开源的感想</a><em>   [2023-02-17]</em></li><li><a href='https://wangdaodao.com/20230108/B860AV21-A2.html' target='_blank'>中兴B860AV2.1-A2刷机</a><em>   [2023-01-07]</em></li><li><a href='https://wangdaodao.com/20221231/2022-summary.html' target='_blank'>2022年总结</a><em>   [2022-12-31]</em></li><li><a href='https://wangdaodao.com/20221229/epson-manual-two-sided-print.html' target='_blank'>打印机手动翻页</a><em>   [2022-12-29]</em></li><li><a href='https://wangdaodao.com/20221228/IE-error.html' target='_blank'>Vue项目在IE下报错的一些调试</a><em>   [2022-12-28]</em></li><li><a href='https://wangdaodao.com/20221204/momentjs-format-week.html' target='_blank'>Momentjs格式化周数问题</a><em>   [2022-12-04]</em></li><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </ol>
 <a href="https://wangdaodao.com/">➡️ More blog posts</a>
 <h2>✨ My Twitter ...</h2>
 <ol>
+  <li>
+    未经考察的人生是不值得过的，过度考察的人生是没法过的…<a href="https://twitter.com/hidaodao/status/1662947701678391297" rel="nofollow">[2023-05-29 06:23]</a>
+  </li>
+  <li>
+    我觉得有些人真的有必要去看一下提问的智慧！一个好的问题，能够带来很多启发，但是如果提问的不太好，连自己都解释不清楚意思，这就尴尬了…<a href="https://twitter.com/hidaodao/status/1650903537319133191" rel="nofollow">[2023-04-26 00:44]</a>
+  </li>
+  <li>
+    有了物质，细节会淡化，没有物质，细节会放大。<a href="https://twitter.com/hidaodao/status/1650270982056165376" rel="nofollow">[2023-04-24 06:50]</a>
+  </li>
+  <li>
+    实践出真知，动动嘴，谁都行…<a href="https://twitter.com/hidaodao/status/1645358619427237893" rel="nofollow">[2023-04-10 17:30]</a>
+  </li>
+  <li>
+    这个世界好奇怪，把活着的人往死里逼，又劝想死的人好好活着，于是所有人都半死不活…<a href="https://twitter.com/hidaodao/status/1644133257531777024" rel="nofollow">[2023-04-07 08:21]</a>
+  </li>
+  <li>
+    今天这个天气，非常的糟糕…<a href="https://twitter.com/hidaodao/status/1638333645428764672" rel="nofollow">[2023-03-22 08:15]</a>
+  </li>
+  <li>
+    时间都浪费在了没意义的事情了…<a href="https://twitter.com/hidaodao/status/1638190027456004098" rel="nofollow">[2023-03-21 22:45]</a>
+  </li>
   <li>
     金钱可能买不到快乐，但它能买到自由。 https://t.co/s8uTZiZpja<a href="https://twitter.com/hidaodao/status/1635508580429209601" rel="nofollow">[2023-03-14 13:10]</a>
   </li>
@@ -27,6 +49,9 @@ will be updated automatically, last updated: (UTC+8) 2023-03-21 13:31.</p>
   </li>
   <li>
     你所追求的，也许最后是一场空，不是你不够努力，是一开始，结局已经注定。越往后，时间越珍贵，不能挥霍，也挥霍不起。一回头，青春不再，你所执着的人和事，早已成为往事。<a href="https://twitter.com/hidaodao/status/1635077139216347136" rel="nofollow">[2023-03-13 08:35]</a>
+  </li>
+  <li>
+    RT nash_su可口可乐最新广告，用到了 stable diffusion AI，配合3D技术。这是最近看到第二个如此级别商用的，上一个是麦当劳还是肯德基的用 Nerf 三维重建技术 https://t.co/UN9QaCBdWA<a href="https://twitter.com/nash_su/status/1635070500543295488" rel="nofollow">[2023-03-13 08:09]</a>
   </li>
   <li>
     宁可食无肉不可居无狗人见人穷绕着走，狗见家贫死相守。人说两句会记仇，狗不打死总回头。从此不交无情友，留下剩饭都喂狗。<a href="https://twitter.com/hidaodao/status/1633984566863200258" rel="nofollow">[2023-03-10 08:14]</a>
@@ -44,34 +69,7 @@ will be updated automatically, last updated: (UTC+8) 2023-03-21 13:31.</p>
     少走30年弯路… https://t.co/cfWxikeT0T<a href="https://twitter.com/hidaodao/status/1630591101726851072" rel="nofollow">[2023-02-28 23:29]</a>
   </li>
   <li>
-    如果你丢了一部iPhone13，但是妈妈又给你买了一部iPhone14，你还是会很高兴；如果你的对象跟你分手，但是爱慕已久的女神却主动跟你表白，你还是会很高兴；如果你考试没拿高分，但是去国外的机会刚刚到手，你还是会很高兴。所以你看，我们并不是真的怕失去，而是怕没有更好的代替…<a href="https://twitter.com/hidaodao/status/1630224729381511171" rel="nofollow">[2023-02-27 23:13]</a>
-  </li>
-  <li>
-    睡不醒，睡不着！<a href="https://twitter.com/hidaodao/status/1627804189291319299" rel="nofollow">[2023-02-21 06:55]</a>
-  </li>
-  <li>
-    最近好多事情，只能自己去慢慢的消化了。<a href="https://twitter.com/hidaodao/status/1606921131235377152" rel="nofollow">[2022-12-25 15:53]</a>
-  </li>
-  <li>
-    人在做，天在看！<a href="https://twitter.com/hidaodao/status/1484040073855512579" rel="nofollow">[2022-01-20 13:48]</a>
-  </li>
-  <li>
-    终于把家里的网络搞定了，以后在家连外网方便多了……<a href="https://twitter.com/hidaodao/status/1480183746275930113" rel="nofollow">[2022-01-09 22:24]</a>
-  </li>
-  <li>
-    有些人，不值得尊重。<a href="https://twitter.com/hidaodao/status/1480167864367599616" rel="nofollow">[2022-01-09 21:21]</a>
-  </li>
-  <li>
-    笑面虎是高层次的，擅长谋划人心，工于博弈技巧！<a href="https://twitter.com/hidaodao/status/1479273534929227785" rel="nofollow">[2022-01-07 10:07]</a>
-  </li>
-  <li>
-    上个网真不容易啊……<a href="https://twitter.com/hidaodao/status/1422166194103078915" rel="nofollow">[2021-08-02 20:03]</a>
-  </li>
-  <li>
-    什么样的人都有啊！<a href="https://twitter.com/hidaodao/status/1401172874057027589" rel="nofollow">[2021-06-05 21:43]</a>
-  </li>
-  <li>
-    这些戏子们啊，敢不敢终身禁止与某些公司合作？<a href="https://twitter.com/hidaodao/status/1375253931165507591" rel="nofollow">[2021-03-26 09:11]</a>
+    RT Jason Lee最近稍微看了一下 SWC 项目的细节，这真牛逼啊！CSS、JavaScript、HTML 的 Parser 都手动实现了一遍。这个项目里面的子项目多得令人发指！且每个子项目的代码量都不少。https://github.com/swc-project/swc/tree/main/crates<a href="https://twitter.com/huacnlee/status/1630029909258272768" rel="nofollow">[2023-02-27 10:19]</a>
   </li>
 </ol>
 <a href="https://twitter.com/hidaodao">➡️ More status</a>
