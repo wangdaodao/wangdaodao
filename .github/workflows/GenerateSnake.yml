@@ -20,6 +20,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: preview
-          build_dir: dist
+          build_dir: dist/img
         env:
           GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
