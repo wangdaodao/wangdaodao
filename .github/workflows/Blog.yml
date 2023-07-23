@@ -1,0 +1,21 @@
+name: Blog
+on:
+  workflow_run:
+    workflows: ["README"]
+    types:
+      - completed
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Blog Post
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: 10
+          date_format: "yyyy-mm-dd"
+          feed_list: "https://wangdaodao.com/feed/atom/"
+          template: "<li><a href='$url' target='_blank'>$title</a><em>   [$date]</em></li>"

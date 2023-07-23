@@ -1,0 +1,42 @@
+# .github/workflows/douban.yml
+name: DouBanSync
+on: 
+  workflow_dispatch:
+  schedule:
+  - cron: "30 0 * * *"
+
+jobs:
+  douban:
+    name: Douban mark data sync
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      
+    - name: Commit
+      uses: EndBug/add-and-commit@v8
+      with:
+        message: 'chore: remove douban data'
+        remove: './data/douban/*'
+
+    - name: Movie
+      uses: lizheming/doumark-action@master
+      with:
+        id: 46817017
+        type: movie
+        format: json
+        dir: ./data/douban
+
+    - name: Book
+      uses: lizheming/doumark-action@master
+      with:
+        id: 46817017
+        type: book
+        format: json
+        dir: ./data/douban
+        
+    - name: Commit
+      uses: EndBug/add-and-commit@v8
+      with:
+        message: 'chore: add douban data'
+        add: './data/douban'

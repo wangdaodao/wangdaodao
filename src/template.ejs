@@ -1,0 +1,88 @@
+<h1>Hi 👋, I'm wangdaodao 👨‍💻</h1>
+
+<p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
+
+<p>
+  ⭐️ Star
+  <a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
+  will be updated automatically, last updated: (UTC+8) <%= updateTime %>.
+</p>
+
+<img
+  width="100%"
+  align="center"
+  src="https://raw.fastgit.org/wangdaodao/wangdaodao/master/img/snake.svg?t=<%= timeStamp %>"
+  alt="contributions snake"
+/>
+
+<h2>📝 Hitokoto</h2>
+
+<blockquote><%= hitokoto %></blockquote>
+
+<h2>🌈 Daily Bing Wallpaper</h2>
+
+<a href="<%= background.copyrightlink %>" rel="nofollow">
+  <img
+    width="100%"
+    align="center"
+    src="<%= background.url %>"
+    alt="<%= background.title %>"
+  />
+  <br />
+  <em><%= background.copyright %></em>
+</a>
+
+<h2>📚 My Blog posts ...</h2>
+
+<ol>
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+</ol>
+
+<a href="https://wangdaodao.com/">➡️ More blog posts</a>
+
+<h2>✨ My Twitter ...</h2>
+
+<ol>
+  <% twitter.forEach(function(list){ %>
+  <li>
+    <%= list.content %>
+    <a href="<%= list.url %>" rel="nofollow">[<%= list.date %>]</a>
+  </li>
+  <% }); %>
+</ol>
+
+<a href="https://twitter.com/hidaodao">➡️ More status</a>
+
+<h2>📦 My publish packages ...</h2>
+
+<ol>
+  <% packages.forEach(function(package){ %>
+  <li>
+    <a href="https://www.npmjs.com/package/<%= package.name %>" rel="nofollow">
+      <%= package.name %>
+    </a>
+    : <%= package.description %>
+  </li>
+  <% }); %>
+</ol>
+
+<a href="https://www.npmjs.com/~wangdaodao">➡️ More packages</a>
+
+<h2>🔭 I’m currently working with ...</h2>
+
+<p>
+  <% badges.forEach(function(badge){ %>
+  <img src="<%= badge.icon %>" alt="badge.name" />
+  <% }); %>
+</p>
+
+<h2>☕ Buy a coffee</h2>
+
+<p>If my open source helps you, I hope you can buy me a cup of coffee.</p>
+
+<img
+  align="center"
+  src="https://user-images.githubusercontent.com/2317442/220089109-cd2172c3-09f6-4762-8df5-1faa0a4b8693.png"
+  alt="coffee"
+/>
