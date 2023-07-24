@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm wangdaodao 👨‍💻</h1>
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
-⭐️ Star &nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2023-07-24 06:14.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1690150493732" alt="contributions snake" />
+⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
+will be updated automatically, last updated: (UTC+8) 2023-07-24 11:57.</p>
+<img width="100%" align="center" src="https://raw.fastgit.org/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1690171061739" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>没有永恒的敌人或同志，只有永恒的责任。—— 章北海</blockquote>
+<blockquote>宣父犹能畏后生，丈夫未可轻年少。—— 李白</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=Nuwara+Eliya&amp;form=hpcapt&amp;filters=HpDate%3a%2220230723_0700%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.TeaEstate_EN-US1720005197_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Hello, is it &#39;tea&#39; you’re looking for?" />
@@ -14,7 +14,8 @@ will be updated automatically, last updated: (UTC+8) 2023-07-24 06:14.</p>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
-  <!-- BLOG-POST-LIST:START --><li><a href='https://wangdaodao.com/20230709/padavan.html' target='_blank'>padavan的一些使用整理</a><em>   [2023-07-09]</em></li><li><a href='https://wangdaodao.com/20230515/getBoundingClientRect-transform.html' target='_blank'>getBoundingClientRect与transform的兼容</a><em>   [2023-05-15]</em></li><li><a href='https://wangdaodao.com/20230329/vue-component-i18n.html' target='_blank'>给Vue组件加上国际化支持</a><em>   [2023-03-29]</em></li><li><a href='https://wangdaodao.com/20230327/solve-nrm-error.html' target='_blank'>关于NRM报错的解决方法</a><em>   [2023-03-27]</em></li><li><a href='https://wangdaodao.com/20230217/open-source.html' target='_blank'>关于core-js和开源的感想</a><em>   [2023-02-17]</em></li><li><a href='https://wangdaodao.com/20230108/B860AV21-A2.html' target='_blank'>中兴B860AV2.1-A2刷机</a><em>   [2023-01-07]</em></li><li><a href='https://wangdaodao.com/20221231/2022-summary.html' target='_blank'>2022年总结</a><em>   [2022-12-31]</em></li><li><a href='https://wangdaodao.com/20221229/epson-manual-two-sided-print.html' target='_blank'>打印机手动翻页</a><em>   [2022-12-29]</em></li><li><a href='https://wangdaodao.com/20221228/IE-error.html' target='_blank'>Vue项目在IE下报错的一些调试</a><em>   [2022-12-28]</em></li><li><a href='https://wangdaodao.com/20221204/momentjs-format-week.html' target='_blank'>Momentjs格式化周数问题</a><em>   [2022-12-04]</em></li><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </ol>
 <a href="https://wangdaodao.com/">➡️ More blog posts</a>
 <h2>✨ My Twitter ...</h2>
@@ -41,16 +42,16 @@ will be updated automatically, last updated: (UTC+8) 2023-07-24 06:14.</p>
     时间都浪费在了没意义的事情了…<a href="https://twitter.com/hidaodao/status/1638190027456004098" rel="nofollow">[2023-03-21 22:45]</a>
   </li>
   <li>
-    金钱可能买不到快乐，但它能买到自由。 https://t.co/s8uTZiZpja<a href="https://twitter.com/hidaodao/status/1635508580429209601" rel="nofollow">[2023-03-14 13:10]</a>
+    金钱可能买不到快乐，但它能买到自由。<a href="https://twitter.com/hidaodao/status/1635508580429209601" rel="nofollow">[2023-03-14 13:10]</a>
   </li>
   <li>
-    狡兔死，走狗烹；飞鸟尽，良弓藏；敌国破，谋臣亡。 https://t.co/qqqaNrNugA<a href="https://twitter.com/hidaodao/status/1635121186035335168" rel="nofollow">[2023-03-13 11:30]</a>
+    狡兔死，走狗烹；飞鸟尽，良弓藏；敌国破，谋臣亡。<a href="https://twitter.com/hidaodao/status/1635121186035335168" rel="nofollow">[2023-03-13 11:30]</a>
   </li>
   <li>
     你所追求的，也许最后是一场空，不是你不够努力，是一开始，结局已经注定。越往后，时间越珍贵，不能挥霍，也挥霍不起。一回头，青春不再，你所执着的人和事，早已成为往事。<a href="https://twitter.com/hidaodao/status/1635077139216347136" rel="nofollow">[2023-03-13 08:35]</a>
   </li>
   <li>
-    RT nash_su可口可乐最新广告，用到了 stable diffusion AI，配合3D技术。这是最近看到第二个如此级别商用的，上一个是麦当劳还是肯德基的用 Nerf 三维重建技术 https://t.co/UN9QaCBdWA<a href="https://twitter.com/nash_su/status/1635070500543295488" rel="nofollow">[2023-03-13 08:09]</a>
+    RT nash_su可口可乐最新广告，用到了 stable diffusion AI，配合3D技术。这是最近看到第二个如此级别商用的，上一个是麦当劳还是肯德基的用 Nerf 三维重建技术<a href="https://twitter.com/nash_su/status/1635070500543295488" rel="nofollow">[2023-03-13 08:09]</a>
   </li>
   <li>
     宁可食无肉不可居无狗人见人穷绕着走，狗见家贫死相守。人说两句会记仇，狗不打死总回头。从此不交无情友，留下剩饭都喂狗。<a href="https://twitter.com/hidaodao/status/1633984566863200258" rel="nofollow">[2023-03-10 08:14]</a>
@@ -65,7 +66,7 @@ will be updated automatically, last updated: (UTC+8) 2023-07-24 06:14.</p>
     抑郁的人在水底，正常人在水面，而我卡在中间，理智不让我沉下去，生活不让我浮上来。<a href="https://twitter.com/hidaodao/status/1631235481454403584" rel="nofollow">[2023-03-02 18:10]</a>
   </li>
   <li>
-    少走30年弯路… https://t.co/cfWxikeT0T<a href="https://twitter.com/hidaodao/status/1630591101726851072" rel="nofollow">[2023-02-28 23:29]</a>
+    少走30年弯路…<a href="https://twitter.com/hidaodao/status/1630591101726851072" rel="nofollow">[2023-02-28 23:29]</a>
   </li>
   <li>
     RT Jason Lee最近稍微看了一下 SWC 项目的细节，这真牛逼啊！CSS、JavaScript、HTML 的 Parser 都手动实现了一遍。这个项目里面的子项目多得令人发指！且每个子项目的代码量都不少。https://github.com/swc-project/swc/tree/main/crates<a href="https://twitter.com/huacnlee/status/1630029909258272768" rel="nofollow">[2023-02-27 10:19]</a>
