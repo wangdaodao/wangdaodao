@@ -1,0 +1,19 @@
+name: Aliyun Signin
+
+on:
+  schedule:
+   # 每天国际时间 14:40 运行一次, 中国时间 22:40
+    - cron: '40 14 * * *'
+  workflow_dispatch:
+jobs:
+  signin:
+    name: Aliyun Signin
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ImYrS/aliyun-auto-signin@main
+        with:
+          REFRESH_TOKENS: ${{ secrets.REFRESH_TOKENS }}
+          GP_TOKEN: ${{ secrets.GP_TOKEN}}
+          PUSH_TYPES: 'pushplus'
+          DO_NOT_REWARD: 'false'
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
