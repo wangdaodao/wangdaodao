@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2023-08-02 16:20.</p>
-<img width="100%" align="center" src="https://raw.fastgit.org/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1690964419331" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2023-08-02 17:15.</p>
+<img width="100%" align="center" src="https://raw.fastgit.org/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1690967755589" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>七岁断指，断了他的善，死前断臂，断了他的恶。—— 佚名</blockquote>
+<blockquote>东边日出西边雨，道是无晴却有晴。—— 刘禹锡</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=Capitol+Reef+National+Park&amp;form=hpcapt&amp;filters=HpDate%3a%2220230802_0700%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Sandstone butte-iful" />
@@ -14,11 +14,15 @@ will be updated automatically, last updated: (UTC+8) 2023-08-02 16:20.</p>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
-  <!-- BLOG-POST-LIST:START --><li><a href='https://wangdaodao.com/20230709/padavan.html' target='_blank'>padavan的一些使用整理</a><em>   [2023-07-09]</em></li><li><a href='https://wangdaodao.com/20230515/getBoundingClientRect-transform.html' target='_blank'>getBoundingClientRect与transform的兼容</a><em>   [2023-05-15]</em></li><li><a href='https://wangdaodao.com/20230329/vue-component-i18n.html' target='_blank'>给Vue组件加上国际化支持</a><em>   [2023-03-29]</em></li><li><a href='https://wangdaodao.com/20230327/solve-nrm-error.html' target='_blank'>关于NRM报错的解决方法</a><em>   [2023-03-27]</em></li><li><a href='https://wangdaodao.com/20230217/open-source.html' target='_blank'>关于core-js和开源的感想</a><em>   [2023-02-17]</em></li><li><a href='https://wangdaodao.com/20230108/B860AV21-A2.html' target='_blank'>中兴B860AV2.1-A2刷机</a><em>   [2023-01-07]</em></li><li><a href='https://wangdaodao.com/20221231/2022-summary.html' target='_blank'>2022年总结</a><em>   [2022-12-31]</em></li><li><a href='https://wangdaodao.com/20221229/epson-manual-two-sided-print.html' target='_blank'>打印机手动翻页</a><em>   [2022-12-29]</em></li><li><a href='https://wangdaodao.com/20221228/IE-error.html' target='_blank'>Vue项目在IE下报错的一些调试</a><em>   [2022-12-28]</em></li><li><a href='https://wangdaodao.com/20221204/momentjs-format-week.html' target='_blank'>Momentjs格式化周数问题</a><em>   [2022-12-04]</em></li><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </ol>
 <a href="https://wangdaodao.com/">➡️ More blog posts</a>
 <h2>✨ My Twitter ...</h2>
 <ol>
+  <li>
+    为什么提前知道了结果，还是有点失落呢？<a href="https://twitter.com/hidaodao/status/1686659964335771648" rel="nofollow">[2023-08-02 16:47]</a>
+  </li>
   <li>
     未经考察的人生是不值得过的，过度考察的人生是没法过的…<a href="https://twitter.com/hidaodao/status/1662947701678391297" rel="nofollow">[2023-05-29 06:23]</a>
   </li>
@@ -66,9 +70,6 @@ will be updated automatically, last updated: (UTC+8) 2023-08-02 16:20.</p>
   </li>
   <li>
     少走30年弯路…<a href="https://twitter.com/hidaodao/status/1630591101726851072" rel="nofollow">[2023-02-28 23:29]</a>
-  </li>
-  <li>
-    RT Jason Lee最近稍微看了一下 SWC 项目的细节，这真牛逼啊！CSS、JavaScript、HTML 的 Parser 都手动实现了一遍。这个项目里面的子项目多得令人发指！且每个子项目的代码量都不少。https://github.com/swc-project/swc/tree/main/crates<a href="https://twitter.com/huacnlee/status/1630029909258272768" rel="nofollow">[2023-02-27 10:19]</a>
   </li>
 </ol>
 <a href="https://twitter.com/hidaodao">➡️ More status</a>
