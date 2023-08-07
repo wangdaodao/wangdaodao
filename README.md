@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2023-08-07 19:12.</p>
-<img width="100%" align="center" src="https://raw.fastgit.org/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1691406778221" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2023-08-07 20:32.</p>
+<img width="100%" align="center" src="https://raw.fastgit.org/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1691411567275" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>命运负责洗牌和发牌，而我们只能出牌。—— 叔本华</blockquote>
+<blockquote>我希望兜兜转转之后那个人还是你。—— 不要半夜躲在被子里哭了</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=bodie+island+lighthouse&amp;form=hpcapt&amp;filters=HpDate%3a%2220230807_0700%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.BodieNC_EN-US2693689463_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Sentinels of the sea" />
@@ -14,7 +14,8 @@ will be updated automatically, last updated: (UTC+8) 2023-08-07 19:12.</p>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
-  <!-- BLOG-POST-LIST:START --><li><a href='https://wangdaodao.com/20230709/padavan.html' target='_blank'>padavan的一些使用整理</a><em>   [2023-07-09]</em></li><li><a href='https://wangdaodao.com/20230515/getBoundingClientRect-transform.html' target='_blank'>getBoundingClientRect与transform的兼容</a><em>   [2023-05-15]</em></li><li><a href='https://wangdaodao.com/20230329/vue-component-i18n.html' target='_blank'>给Vue组件加上国际化支持</a><em>   [2023-03-29]</em></li><li><a href='https://wangdaodao.com/20230327/solve-nrm-error.html' target='_blank'>关于NRM报错的解决方法</a><em>   [2023-03-27]</em></li><li><a href='https://wangdaodao.com/20230217/open-source.html' target='_blank'>关于core-js和开源的感想</a><em>   [2023-02-17]</em></li><li><a href='https://wangdaodao.com/20230108/B860AV21-A2.html' target='_blank'>中兴B860AV2.1-A2刷机</a><em>   [2023-01-07]</em></li><li><a href='https://wangdaodao.com/20221231/2022-summary.html' target='_blank'>2022年总结</a><em>   [2022-12-31]</em></li><li><a href='https://wangdaodao.com/20221229/epson-manual-two-sided-print.html' target='_blank'>打印机手动翻页</a><em>   [2022-12-29]</em></li><li><a href='https://wangdaodao.com/20221228/IE-error.html' target='_blank'>Vue项目在IE下报错的一些调试</a><em>   [2022-12-28]</em></li><li><a href='https://wangdaodao.com/20221204/momentjs-format-week.html' target='_blank'>Momentjs格式化周数问题</a><em>   [2022-12-04]</em></li><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </ol>
 <a href="https://wangdaodao.com/">➡️ More blog posts</a>
 <h2>✨ My Twitter ...</h2>
