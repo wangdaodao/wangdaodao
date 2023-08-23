@@ -7,7 +7,7 @@ const prettify = require('html-prettify');
 
 const getBackground = require("./apis/background");
 const hitokotos = require("./apis/hitokoto");
-const twitters = require("./apis/twitter");
+// const twitters = require("./apis/twitter");
 const badges = require("./constants/badges");
 const packages = require("./constants/packages");
 const dayjs = require("dayjs");
@@ -28,12 +28,12 @@ const main = async () => {
   const [hitokoto] = await Promise.all([
     hitokotos(),
   ]);
-  const [twitter] = await Promise.all([
-    twitters(),
-  ]);
+  // const [twitter] = await Promise.all([
+  //   twitters(),
+  // ]);
 
   const html = ejs.render(tplStr, {
-    twitter,
+    // twitter,
     badges,
     packages,
     background,
