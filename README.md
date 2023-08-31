@@ -2,19 +2,20 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2023-08-31 14:20.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1693462843597" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2023-08-31 15:14.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1693466094243" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>所以说爱恨真是奇怪的东西，有的早早腐烂入土，有的刻骨。—— 木苏里</blockquote>
+<blockquote>物质决定意识，意识反作用于物质—— 佚名</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=whale+shark&amp;form=hpcapt&amp;filters=HpDate%3a%2220230830_0700%22" rel="nofollow">
-  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.NingalooShark_EN-US2673625094_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="A diver&#39;s big buddy" />
+<a href="https://www.bing.com/search?q=Saguaro+cactus&amp;form=hpcapt&amp;filters=HpDate%3a%2220230831_0700%22" rel="nofollow">
+  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.IronwoodCactus_EN-US2823371711_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="&#39;Saguaro&#39; you today?" />
   <br  />
-  <em>Whale shark, Ningaloo Reef, Western Australia (© Jason Edwards/Getty Images)</em>
+  <em>Saguaro cacti, Ironwood National Monument, Arizona (© Jack Dykinga/Minden Pictures)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
-  <!-- BLOG-POST-LIST:START --><li><a href='https://wangdaodao.com/20230827/el-table-performance-optimization.html' target='_blank'>饿了么表格性能优化</a><em>   [2023-08-27]</em></li><li><a href='https://wangdaodao.com/20230709/padavan.html' target='_blank'>padavan的一些使用整理</a><em>   [2023-07-09]</em></li><li><a href='https://wangdaodao.com/20230515/getBoundingClientRect-transform.html' target='_blank'>getBoundingClientRect与transform的兼容</a><em>   [2023-05-15]</em></li><li><a href='https://wangdaodao.com/20230329/vue-component-i18n.html' target='_blank'>给Vue组件加上国际化支持</a><em>   [2023-03-29]</em></li><li><a href='https://wangdaodao.com/20230327/solve-nrm-error.html' target='_blank'>关于NRM报错的解决方法</a><em>   [2023-03-27]</em></li><li><a href='https://wangdaodao.com/20230217/open-source.html' target='_blank'>关于core-js和开源的感想</a><em>   [2023-02-17]</em></li><li><a href='https://wangdaodao.com/20230108/B860AV21-A2.html' target='_blank'>中兴B860AV2.1-A2刷机</a><em>   [2023-01-07]</em></li><li><a href='https://wangdaodao.com/20221231/2022-summary.html' target='_blank'>2022年总结</a><em>   [2022-12-31]</em></li><li><a href='https://wangdaodao.com/20221229/epson-manual-two-sided-print.html' target='_blank'>打印机手动翻页</a><em>   [2022-12-29]</em></li><li><a href='https://wangdaodao.com/20221228/IE-error.html' target='_blank'>Vue项目在IE下报错的一些调试</a><em>   [2022-12-28]</em></li><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </ol>
 <a href="https://wangdaodao.com/">➡️ More blog posts</a>
 <h2>📦 My publish packages ...</h2>
