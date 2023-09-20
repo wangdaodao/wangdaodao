@@ -1,9 +1,5 @@
 const packages = [
   {
-    name: 'element-gui',
-    description: 'A Component Library for Vue.js, fork element-ui',
-  },
-  {
     name: 'vue-lunar-calendar-pro',
     description: 'A lunar calendar component for Vue.js.',
   },
