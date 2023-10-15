@@ -2,19 +2,20 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2023-10-15 14:21.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1697350862010" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2023-10-15 15:13.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1697354036938" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>要是追不上光，那就变成光吧。—— 小白想做你的唯一</blockquote>
+<blockquote>相逢一醉是前缘，风雨散、飘然何处。—— 苏轼</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=Annular+solar+eclipse+oct+14&amp;form=hpcapt&amp;filters=HpDate%3a%2220231014_0700%22" rel="nofollow">
-  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.RingEclipse_EN-US1077107553_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="And it burns, burns, burns" />
+<a href="https://www.bing.com/search?q=European+Hedgehog&amp;form=hpcapt&amp;filters=HpDate%3a%2220231015_0700%22" rel="nofollow">
+  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.AutumnHedgehog_EN-US1171311197_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="This spot&#39;s taken" />
   <br  />
-  <em>&#39;Ring of fire&#39; annular solar eclipse, Doha, Qatar (© Sorin Furcoi/Getty Images)</em>
+  <em>European hedgehog sheltering in tree bark, Sussex, England (© Jules Cox/Minden Pictures)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
-  <!-- BLOG-POST-LIST:START --><li><a href='https://wangdaodao.com/20230912/qiankun-experimentalStyleIsolation.html' target='_blank'>关于乾坤的样式隔离带来的问题</a><em>   [2023-09-12]</em></li><li><a href='https://wangdaodao.com/20230827/el-table-performance-optimization.html' target='_blank'>饿了么表格性能优化</a><em>   [2023-08-27]</em></li><li><a href='https://wangdaodao.com/20230709/padavan.html' target='_blank'>padavan的一些使用整理</a><em>   [2023-07-09]</em></li><li><a href='https://wangdaodao.com/20230515/getBoundingClientRect-transform.html' target='_blank'>getBoundingClientRect与transform的兼容</a><em>   [2023-05-15]</em></li><li><a href='https://wangdaodao.com/20230329/vue-component-i18n.html' target='_blank'>给Vue组件加上国际化支持</a><em>   [2023-03-29]</em></li><li><a href='https://wangdaodao.com/20230327/solve-nrm-error.html' target='_blank'>关于NRM报错的解决方法</a><em>   [2023-03-27]</em></li><li><a href='https://wangdaodao.com/20230217/open-source.html' target='_blank'>关于core-js和开源的感想</a><em>   [2023-02-17]</em></li><li><a href='https://wangdaodao.com/20230108/B860AV21-A2.html' target='_blank'>中兴B860AV2.1-A2刷机</a><em>   [2023-01-07]</em></li><li><a href='https://wangdaodao.com/20221231/2022-summary.html' target='_blank'>2022年总结</a><em>   [2022-12-31]</em></li><li><a href='https://wangdaodao.com/20221229/epson-manual-two-sided-print.html' target='_blank'>打印机手动翻页</a><em>   [2022-12-29]</em></li><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </ol>
 <a href="https://wangdaodao.com/">➡️ More blog posts</a>
 <h2>📦 My publish packages ...</h2>
