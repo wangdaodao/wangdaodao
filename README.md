@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2024-05-17 19:15.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1715944513265" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2024-05-17 20:32.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1715949145358" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>落叶别树，飘零随风。客无所托，悲与此同。—— 李白</blockquote>
+<blockquote>“你失去了”“我从未拥有”—— 佚名</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=endangered+species+awareness+day&amp;form=hpcapt&amp;filters=HpDate%3a%2220240517_0700%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.TarangireElephants_EN-US8865263185_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Today is not &#39;irrelephant&#39;" />
@@ -14,7 +14,8 @@ will be updated automatically, last updated: (UTC+8) 2024-05-17 19:15.</p>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
-  <!-- BLOG-POST-LIST:START --><li><a href='https://wangdaodao.com/20231111/mouse-maintenance.html' target='_blank'>罗技M330雷蛇RZ01-0254鼠标微动更换</a><em>   [2023-11-11]</em></li><li><a href='https://wangdaodao.com/20230912/qiankun-experimentalStyleIsolation.html' target='_blank'>关于乾坤的样式隔离带来的问题</a><em>   [2023-09-12]</em></li><li><a href='https://wangdaodao.com/20230827/el-table-performance-optimization.html' target='_blank'>饿了么表格性能优化</a><em>   [2023-08-27]</em></li><li><a href='https://wangdaodao.com/20230709/padavan.html' target='_blank'>padavan的一些使用整理</a><em>   [2023-07-09]</em></li><li><a href='https://wangdaodao.com/20230515/getBoundingClientRect-transform.html' target='_blank'>getBoundingClientRect与transform的兼容</a><em>   [2023-05-15]</em></li><li><a href='https://wangdaodao.com/20230329/vue-component-i18n.html' target='_blank'>给Vue组件加上国际化支持</a><em>   [2023-03-29]</em></li><li><a href='https://wangdaodao.com/20230327/solve-nrm-error.html' target='_blank'>关于NRM报错的解决方法</a><em>   [2023-03-27]</em></li><li><a href='https://wangdaodao.com/20230217/open-source.html' target='_blank'>关于core-js和开源的感想</a><em>   [2023-02-17]</em></li><li><a href='https://wangdaodao.com/20230108/B860AV21-A2.html' target='_blank'>中兴B860AV2.1-A2刷机</a><em>   [2023-01-07]</em></li><li><a href='https://wangdaodao.com/20221231/2022-summary.html' target='_blank'>2022年总结</a><em>   [2022-12-31]</em></li><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </ol>
 <a href="https://wangdaodao.com/">➡️ More blog posts</a>
 <h2>📦 My publish packages ...</h2>
