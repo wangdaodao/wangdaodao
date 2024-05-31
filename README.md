@@ -2,19 +2,20 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2024-05-31 23:20.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1717168834375" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2024-06-01 00:21.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1717172506059" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>如果预计中的不幸没有发生的话，我们就会收获意外的喜悦。—— 叔本华</blockquote>
+<blockquote>黑发不知勤学早，白首方悔读书迟。—— 颜真卿</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=Gunnerside&amp;form=hpcapt&amp;filters=HpDate%3a%2220240531_0700%22" rel="nofollow">
+<a href="https://www.bing.com/search?q=Gunnerside%2c+Yorkshire+Dales&amp;form=hpcapt&amp;filters=HpDate%3a%2220240531_0700%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-US6104560581_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="A green and pleasant land" />
   <br  />
   <em>Gunnerside, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
-  <!-- BLOG-POST-LIST:START --><li><a href='https://wangdaodao.com/20240523/summer-is-coming.html' target='_blank'>夏天到了</a><em>   [2024-05-23]</em></li><li><a href='https://wangdaodao.com/20231111/mouse-maintenance.html' target='_blank'>罗技M330雷蛇RZ01-0254鼠标微动更换</a><em>   [2023-11-11]</em></li><li><a href='https://wangdaodao.com/20230912/qiankun-experimentalStyleIsolation.html' target='_blank'>关于乾坤的样式隔离带来的问题</a><em>   [2023-09-12]</em></li><li><a href='https://wangdaodao.com/20230827/el-table-performance-optimization.html' target='_blank'>饿了么表格性能优化</a><em>   [2023-08-27]</em></li><li><a href='https://wangdaodao.com/20230709/padavan.html' target='_blank'>padavan的一些使用整理</a><em>   [2023-07-09]</em></li><li><a href='https://wangdaodao.com/20230515/getBoundingClientRect-transform.html' target='_blank'>getBoundingClientRect与transform的兼容</a><em>   [2023-05-15]</em></li><li><a href='https://wangdaodao.com/20230329/vue-component-i18n.html' target='_blank'>给Vue组件加上国际化支持</a><em>   [2023-03-29]</em></li><li><a href='https://wangdaodao.com/20230327/solve-nrm-error.html' target='_blank'>关于NRM报错的解决方法</a><em>   [2023-03-27]</em></li><li><a href='https://wangdaodao.com/20230217/open-source.html' target='_blank'>关于core-js和开源的感想</a><em>   [2023-02-17]</em></li><li><a href='https://wangdaodao.com/20230108/B860AV21-A2.html' target='_blank'>中兴B860AV2.1-A2刷机</a><em>   [2023-01-07]</em></li><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </ol>
 <a href="https://wangdaodao.com/">➡️ More blog posts</a>
 <h2>📦 My publish packages ...</h2>
