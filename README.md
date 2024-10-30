@@ -2,14 +2,14 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2024-10-30 14:38.</p>
+will be updated automatically, last updated: (UTC+8) 2024-10-30 15:19.</p>
 <h2>📝 Hitokoto</h2>
-<blockquote>人与人的相遇，不是恩赐就是劫。—— ShimmerLS</blockquote>
+<blockquote>哈尔那你到底有多少名字呢？——刚好够我自由地活下去。—— 宫崎骏</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=Great+horned+owl&amp;form=hpcapt&amp;filters=HpDate%3a%2220241029_0700%22" rel="nofollow">
-  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.GreatOwl_EN-US3778222109_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Hoots and haunts" />
+<a href="https://www.bing.com/search?q=Edinburgh+Castle+Scotland&amp;form=hpcapt&amp;filters=HpDate%3a%2220241030_0700%22" rel="nofollow">
+  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="A haunting history" />
   <br  />
-  <em>Great horned owl (© Mark Newman/Getty Images)</em>
+  <em>View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
