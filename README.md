@@ -2,14 +2,14 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2024-11-28 15:23.</p>
+will be updated automatically, last updated: (UTC+8) 2024-11-28 16:29.</p>
 <h2>📝 Hitokoto</h2>
-<blockquote>剃刀边缘怎能起造伽蓝。—— 木心</blockquote>
+<blockquote>报君黄金台上意，提携玉龙为君死。—— 李贺</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=Bouillon+Belgium&amp;form=hpcapt&amp;filters=HpDate%3a%2220241127_0800%22" rel="nofollow">
-  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.SemoisRiver_EN-US6047540380_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="The giant&#39;s resting place" />
+<a href="https://www.bing.com/search?q=Thanksgiving&amp;form=hpcapt&amp;filters=HpDate%3a%2220241128_0800%22" rel="nofollow">
+  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.TomTurkeys_EN-US6212893518_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Stuffed with gratitude" />
   <br  />
-  <em>Tombeau du Géant (Giant&#39;s Tomb) in autumn, Bouillon, Belgium (© David Briard/Getty)</em>
+  <em>Wild turkeys, New York (© John Cancalosi/Alamy)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
