@@ -2,9 +2,9 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2024-11-29 09:48.</p>
+will be updated automatically, last updated: (UTC+8) 2024-11-29 11:02.</p>
 <h2>📝 Hitokoto</h2>
-<blockquote>不是为了战斗而活着，而是为了活着而战斗。—— 佚名</blockquote>
+<blockquote>一本书上每多一个公式，就会减少一半读者。—— 霍金</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=Thanksgiving&amp;form=hpcapt&amp;filters=HpDate%3a%2220241128_0800%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.TomTurkeys_EN-US6212893518_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Stuffed with gratitude" />
