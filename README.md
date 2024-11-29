@@ -2,9 +2,9 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2024-11-29 23:23.</p>
+will be updated automatically, last updated: (UTC+8) 2024-11-30 00:27.</p>
 <h2>📝 Hitokoto</h2>
-<blockquote>远看山有色，近听水无声。—— 王维</blockquote>
+<blockquote>这里的一切都有始有终，却能容纳所有的不期而遇和久别重逢。—— 木苏里</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=Mont+Saint+Michel+France&amp;form=hpcapt&amp;filters=HpDate%3a%2220241129_0800%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.MtStMichel_EN-US6641012356_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="An island of time and tide" />
