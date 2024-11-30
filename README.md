@@ -2,14 +2,14 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2024-11-30 15:20.</p>
+will be updated automatically, last updated: (UTC+8) 2024-11-30 16:26.</p>
 <h2>📝 Hitokoto</h2>
-<blockquote>实践是检验真理的唯一标准。—— 佚名</blockquote>
+<blockquote>未来不是被给予的，而是自己争取的—— 佚名</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=Mont+Saint+Michel+France&amp;form=hpcapt&amp;filters=HpDate%3a%2220241129_0800%22" rel="nofollow">
-  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.MtStMichel_EN-US6641012356_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="An island of time and tide" />
+<a href="https://www.bing.com/search?q=Saint+Andrew%27s+Day&amp;form=hpcapt&amp;filters=HpDate%3a%2220241130_0800%22" rel="nofollow">
+  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Reflecting Scotland&#39;s heritage" />
   <br  />
-  <em>Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)</em>
+  <em>Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
