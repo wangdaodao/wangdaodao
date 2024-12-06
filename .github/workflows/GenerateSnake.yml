@@ -8,10 +8,10 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: generate github-contribution-grid-snake.svg
-        uses: aelassas/snk/svg-only@main
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
