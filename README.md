@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-09-05 07:20.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1757028034453" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-09-05 09:47.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1757036876295" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>每一个不曾起舞的日子，都是对生命的辜负。—— 尼采</blockquote>
+<blockquote>若以色见我，以音声求我，是人行邪道，不能见如来。—— 鸠摩罗什</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=Grizzly+bears&amp;form=hpcapt&amp;filters=HpDate%3a%2220250904_0700%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Bear with us—it&#39;s National Wildlife Day" />
@@ -14,7 +14,8 @@ will be updated automatically, last updated: (UTC+8) 2025-09-05 07:20.</p>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
-  <!-- BLOG-POST-LIST:START --><li><a href='https://wangdaodao.com/20241201/racknerd-vps.html' target='_blank'>又入手了一台VPS</a><em>   [2024-12-01]</em></li><li><a href='https://wangdaodao.com/20240730/terser-webpack-plugin.html' target='_blank'>webpack5打包时生成LICENSE文件</a><em>   [2024-07-30]</em></li><li><a href='https://wangdaodao.com/20240523/summer-is-coming.html' target='_blank'>夏天到了</a><em>   [2024-05-23]</em></li><li><a href='https://wangdaodao.com/20231111/mouse-maintenance.html' target='_blank'>罗技M330雷蛇RZ01-0254鼠标微动更换</a><em>   [2023-11-11]</em></li><li><a href='https://wangdaodao.com/20230912/qiankun-experimentalStyleIsolation.html' target='_blank'>关于乾坤的样式隔离带来的问题</a><em>   [2023-09-12]</em></li><li><a href='https://wangdaodao.com/20230827/el-table-performance-optimization.html' target='_blank'>饿了么表格性能优化</a><em>   [2023-08-27]</em></li><li><a href='https://wangdaodao.com/20230709/padavan.html' target='_blank'>padavan的一些使用整理</a><em>   [2023-07-09]</em></li><li><a href='https://wangdaodao.com/20230515/getBoundingClientRect-transform.html' target='_blank'>getBoundingClientRect与transform的兼容</a><em>   [2023-05-15]</em></li><li><a href='https://wangdaodao.com/20230329/vue-component-i18n.html' target='_blank'>给Vue组件加上国际化支持</a><em>   [2023-03-29]</em></li><li><a href='https://wangdaodao.com/20230327/solve-nrm-error.html' target='_blank'>关于NRM报错的解决方法</a><em>   [2023-03-27]</em></li><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </ol>
 <a href="https://wangdaodao.com/">➡️ More blog posts</a>
 <h2>📦 My publish packages ...</h2>
