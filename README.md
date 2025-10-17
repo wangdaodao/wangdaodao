@@ -14,8 +14,7 @@ will be updated automatically, last updated: (UTC+8) 2025-10-18 01:19.</p>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><li><a href='https://wangdaodao.com/20251009/typecho-plugin.html' target='_blank'>折腾了几个插件</a><em>   [2025-10-09]</em></li><li><a href='https://wangdaodao.com/20251008/holiday-jixian.html' target='_blank'>蓟县三日游记</a><em>   [2025-10-08]</em></li><li><a href='https://wangdaodao.com/20250928/blog-feat-ai-summary.html' target='_blank'>给博客增加点小功能</a><em>   [2025-09-28]</em></li><li><a href='https://wangdaodao.com/20241201/racknerd-vps.html' target='_blank'>又入手了一台VPS</a><em>   [2024-12-01]</em></li><li><a href='https://wangdaodao.com/20240730/terser-webpack-plugin.html' target='_blank'>webpack5打包时生成LICENSE文件</a><em>   [2024-07-30]</em></li><li><a href='https://wangdaodao.com/20240523/summer-is-coming.html' target='_blank'>夏天到了</a><em>   [2024-05-23]</em></li><li><a href='https://wangdaodao.com/20231111/mouse-maintenance.html' target='_blank'>罗技M330雷蛇RZ01-0254鼠标微动更换</a><em>   [2023-11-11]</em></li><li><a href='https://wangdaodao.com/20230912/qiankun-experimentalStyleIsolation.html' target='_blank'>关于乾坤的样式隔离带来的问题</a><em>   [2023-09-12]</em></li><li><a href='https://wangdaodao.com/20230827/el-table-performance-optimization.html' target='_blank'>饿了么表格性能优化</a><em>   [2023-08-27]</em></li><li><a href='https://wangdaodao.com/20230709/padavan.html' target='_blank'>padavan的一些使用整理</a><em>   [2023-07-09]</em></li><!-- BLOG-POST-LIST:END -->
 </ol>
 <a href="https://wangdaodao.com/">➡️ More blog posts</a>
 <h2>📦 My publish packages ...</h2>
