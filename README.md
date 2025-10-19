@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-10-19 23:20.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1760887242046" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-10-20 00:26.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1760891197219" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>问灵十三载，等一不归人。—— 佚名</blockquote>
+<blockquote>承君此诺，必守一生。—— 佚名</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=harvesting+apples&amp;form=hpcapt&amp;filters=HpDate%3a%2220251019_0700%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Sweet on science" />
@@ -14,7 +14,8 @@ will be updated automatically, last updated: (UTC+8) 2025-10-19 23:20.</p>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
-  <!-- BLOG-POST-LIST:START --><li><a href='https://wangdaodao.com/20251019/typecho-album.html' target='_blank'>Typecho非插件实现文章相册功能</a><em>   [2025-10-19]</em></li><li><a href='https://wangdaodao.com/20251009/typecho-plugin.html' target='_blank'>折腾了几个插件</a><em>   [2025-10-09]</em></li><li><a href='https://wangdaodao.com/20251008/holiday-jixian.html' target='_blank'>蓟县三日游记</a><em>   [2025-10-08]</em></li><li><a href='https://wangdaodao.com/20250928/blog-feat-ai-summary.html' target='_blank'>给博客增加点小功能</a><em>   [2025-09-28]</em></li><li><a href='https://wangdaodao.com/20241201/racknerd-vps.html' target='_blank'>又入手了一台VPS</a><em>   [2024-12-01]</em></li><li><a href='https://wangdaodao.com/20240730/terser-webpack-plugin.html' target='_blank'>webpack5打包时生成LICENSE文件</a><em>   [2024-07-30]</em></li><li><a href='https://wangdaodao.com/20240523/summer-is-coming.html' target='_blank'>夏天到了</a><em>   [2024-05-23]</em></li><li><a href='https://wangdaodao.com/20231111/mouse-maintenance.html' target='_blank'>罗技M330雷蛇RZ01-0254鼠标微动更换</a><em>   [2023-11-11]</em></li><li><a href='https://wangdaodao.com/20230912/qiankun-experimentalStyleIsolation.html' target='_blank'>关于乾坤的样式隔离带来的问题</a><em>   [2023-09-12]</em></li><li><a href='https://wangdaodao.com/20230827/el-table-performance-optimization.html' target='_blank'>饿了么表格性能优化</a><em>   [2023-08-27]</em></li><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </ol>
 <a href="https://wangdaodao.com/">➡️ More blog posts</a>
 <h2>📦 My publish packages ...</h2>
