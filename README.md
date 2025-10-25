@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-10-26 04:24.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1761423853521" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-10-26 05:19.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1761427174189" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>和绝望，和睦相处—— 佚名</blockquote>
+<blockquote>花间一壶酒，独酌无相亲。—— 李白</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=Martimoaapa+Finland&amp;form=hpcapt&amp;filters=HpDate%3a%2220251025_0700%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Finland&#39;s living peatland" />
@@ -14,7 +14,8 @@ will be updated automatically, last updated: (UTC+8) 2025-10-26 04:24.</p>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
-  <!-- BLOG-POST-LIST:START --><li><a href='https://wangdaodao.com/20251024/rss-bot.html' target='_blank'>使用GitHub Action定时抓取RSS</a><em>   [2025-10-24]</em></li><li><a href='https://wangdaodao.com/20251022/typecho-sticky-post.html' target='_blank'>给Typecho增加文章置顶功能</a><em>   [2025-10-22]</em></li><li><a href='https://wangdaodao.com/20251019/typecho-album.html' target='_blank'>Typecho非插件实现文章相册功能</a><em>   [2025-10-19]</em></li><li><a href='https://wangdaodao.com/20251009/typecho-plugin.html' target='_blank'>折腾了几个插件</a><em>   [2025-10-09]</em></li><li><a href='https://wangdaodao.com/20251008/holiday-jixian.html' target='_blank'>蓟县三日游记</a><em>   [2025-10-08]</em></li><li><a href='https://wangdaodao.com/20250928/blog-feat-ai-summary.html' target='_blank'>给博客增加点小功能</a><em>   [2025-09-28]</em></li><li><a href='https://wangdaodao.com/20241201/racknerd-vps.html' target='_blank'>又入手了一台VPS</a><em>   [2024-12-01]</em></li><li><a href='https://wangdaodao.com/20240730/terser-webpack-plugin.html' target='_blank'>webpack5打包时生成LICENSE文件</a><em>   [2024-07-30]</em></li><li><a href='https://wangdaodao.com/20240523/summer-is-coming.html' target='_blank'>夏天到了</a><em>   [2024-05-23]</em></li><li><a href='https://wangdaodao.com/20231111/mouse-maintenance.html' target='_blank'>罗技M330雷蛇RZ01-0254鼠标微动更换</a><em>   [2023-11-11]</em></li><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </ol>
 <a href="https://wangdaodao.com/">➡️ More blog posts</a>
 <h2>📦 My publish packages ...</h2>
