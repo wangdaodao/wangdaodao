@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-10-31 05:21.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1761859267607" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-10-31 06:22.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1761862952313" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>一件事物与其自身完全一致—— 佚名</blockquote>
+<blockquote>前天，我看见一只兔子；昨天，我看见一只鹿；而今天，我看见你。—— 罗伯特</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=Pushkar+Camel+Fair&amp;form=hpcapt&amp;filters=HpDate%3a%2220251030_0700%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Hooves, hues, and heritage" />
@@ -14,7 +14,8 @@ will be updated automatically, last updated: (UTC+8) 2025-10-31 05:21.</p>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
-  <!-- BLOG-POST-LIST:START --><li><a href='https://wangdaodao.com/20251030/typecho-pannellum.html' target='_blank'>折腾一个Typecho 360全景插件</a><em>   [2025-10-30]</em></li><li><a href='https://wangdaodao.com/20251029/3I-ATLAS.html' target='_blank'>3I/ATLAS到底是什么</a><em>   [2025-10-29]</em></li><li><a href='https://wangdaodao.com/20251027/weekend-musings.html' target='_blank'>周末随笔</a><em>   [2025-10-27]</em></li><li><a href='https://wangdaodao.com/20251024/rss-bot.html' target='_blank'>使用GitHub Action定时抓取RSS</a><em>   [2025-10-24]</em></li><li><a href='https://wangdaodao.com/20251022/typecho-sticky-post.html' target='_blank'>给Typecho增加文章置顶功能</a><em>   [2025-10-22]</em></li><li><a href='https://wangdaodao.com/20251019/typecho-album.html' target='_blank'>Typecho非插件实现文章相册功能</a><em>   [2025-10-19]</em></li><li><a href='https://wangdaodao.com/20251009/typecho-plugin.html' target='_blank'>折腾了几个插件</a><em>   [2025-10-09]</em></li><li><a href='https://wangdaodao.com/20251008/holiday-jixian.html' target='_blank'>蓟县三日游记</a><em>   [2025-10-08]</em></li><li><a href='https://wangdaodao.com/20250928/blog-feat-ai-summary.html' target='_blank'>给博客增加点小功能</a><em>   [2025-09-28]</em></li><li><a href='https://wangdaodao.com/20241201/racknerd-vps.html' target='_blank'>又入手了一台VPS</a><em>   [2024-12-01]</em></li><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </ol>
 <a href="https://wangdaodao.com/">➡️ More blog posts</a>
 <h2>📦 My publish packages ...</h2>
