@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-11-02 20:43.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762087400883" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-11-02 21:25.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762089948704" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>遗忘比绝望更强有力。—— 叔本华</blockquote>
+<blockquote>哪有顷刻之间的心灰意冷，有的，只是日积月累的看透罢了。—— 觅楽</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=Arashiyama+Kyoto&amp;form=hpcapt&amp;filters=HpDate%3a%2220251102_0800%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Where bamboo breathes and maples blaze" />
@@ -14,7 +14,8 @@ will be updated automatically, last updated: (UTC+8) 2025-11-02 20:43.</p>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
-  <!-- BLOG-POST-LIST:START --><li><a href='https://wangdaodao.com/20251101/typecho-bilibili-player.html' target='_blank'>开源Bilibili播放器插件</a><em>   [2025-11-01]</em></li><li><a href='https://wangdaodao.com/20251030/typecho-pannellum.html' target='_blank'>折腾一个Typecho 360全景插件</a><em>   [2025-10-30]</em></li><li><a href='https://wangdaodao.com/20251029/3I-ATLAS.html' target='_blank'>3I/ATLAS到底是什么</a><em>   [2025-10-29]</em></li><li><a href='https://wangdaodao.com/20251027/weekend-musings.html' target='_blank'>周末随笔</a><em>   [2025-10-27]</em></li><li><a href='https://wangdaodao.com/20251024/rss-bot.html' target='_blank'>使用GitHub Action定时抓取RSS</a><em>   [2025-10-24]</em></li><li><a href='https://wangdaodao.com/20251022/typecho-sticky-post.html' target='_blank'>给Typecho增加文章置顶功能</a><em>   [2025-10-22]</em></li><li><a href='https://wangdaodao.com/20251019/typecho-album.html' target='_blank'>Typecho非插件实现文章相册功能</a><em>   [2025-10-19]</em></li><li><a href='https://wangdaodao.com/20251009/typecho-plugin.html' target='_blank'>折腾了几个插件</a><em>   [2025-10-09]</em></li><li><a href='https://wangdaodao.com/20251008/holiday-jixian.html' target='_blank'>蓟县三日游记</a><em>   [2025-10-08]</em></li><li><a href='https://wangdaodao.com/20250928/blog-feat-ai-summary.html' target='_blank'>给博客增加点小功能</a><em>   [2025-09-28]</em></li><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </ol>
 <a href="https://wangdaodao.com/">➡️ More blog posts</a>
 <h2>📦 My publish packages ...</h2>
