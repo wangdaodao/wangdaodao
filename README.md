@@ -2,15 +2,15 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-11-05 15:23.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762327407313" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-11-05 16:33.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762331595370" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>是个男人就要对自己的人生负责—— 佚名</blockquote>
+<blockquote>即使再也没有晴天也没有关系.—— 佚名</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=Tower+Bridge+London&amp;form=hpcapt&amp;filters=HpDate%3a%2220251104_0800%22" rel="nofollow">
-  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Mind the gap—this one opens" />
+<a href="https://www.bing.com/search?q=Zaragoza+Spain&amp;form=hpcapt&amp;filters=HpDate%3a%2220251105_0800%22" rel="nofollow">
+  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Orange you glad it&#39;s fall?" />
   <br  />
-  <em>Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)</em>
+  <em>Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain (© David Santiago Garcia/DEEPOL by plainpicture)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
