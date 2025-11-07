@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-11-07 23:25.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762529122701" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-11-08 00:27.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762532846466" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>我本可以容忍黑暗，如果我不曾见过太阳。—— 艾米莉·狄金森</blockquote>
+<blockquote>吾尝终日不食，终夜不寝，以思无益，不如学也。—— 孔子</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=Polar+Bear+Week&amp;form=hpcapt&amp;filters=HpDate%3a%2220251107_0800%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.WillowBear_EN-US6995170630_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Week of the white bear" />
