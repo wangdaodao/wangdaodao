@@ -2,15 +2,15 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-11-08 15:20.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762586445331" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-11-08 16:28.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762590528927" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>少年易老学难成，一寸光阴不可轻。—— 朱熹</blockquote>
+<blockquote>我忘记了所有悲剧，所见皆是奇迹。—— 空洞骑士</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=Polar+Bear+Week&amp;form=hpcapt&amp;filters=HpDate%3a%2220251107_0800%22" rel="nofollow">
-  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.WillowBear_EN-US6995170630_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Week of the white bear" />
+<a href="https://www.bing.com/search?q=Bandon+Oregon&amp;form=hpcapt&amp;filters=HpDate%3a%2220251108_0800%22" rel="nofollow">
+  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.BandonBeach_EN-US7099626478_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Rock stars of Bandon" />
   <br  />
-  <em>Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)</em>
+  <em>Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills + Motion)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
