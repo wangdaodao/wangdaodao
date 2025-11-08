@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-11-08 14:33.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762583584396" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-11-08 15:20.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762586445331" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>前天是小兔子，昨天是小鹿，今天是你。—— 佚名</blockquote>
+<blockquote>少年易老学难成，一寸光阴不可轻。—— 朱熹</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=Polar+Bear+Week&amp;form=hpcapt&amp;filters=HpDate%3a%2220251107_0800%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.WillowBear_EN-US6995170630_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Week of the white bear" />
