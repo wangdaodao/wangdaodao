@@ -2,15 +2,15 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-11-09 15:21.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762672882548" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-11-09 16:27.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762676843241" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>依旧，依旧，人与绿杨俱瘦。—— 秦观</blockquote>
+<blockquote>金风玉露一相逢，便胜却人间无数。—— 秦观</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=Bandon+Oregon&amp;form=hpcapt&amp;filters=HpDate%3a%2220251108_0800%22" rel="nofollow">
-  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.BandonBeach_EN-US7099626478_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Rock stars of Bandon" />
+<a href="https://www.bing.com/search?q=carl+sagan+day&amp;form=hpcapt&amp;filters=HpDate%3a%2220251109_0800%22" rel="nofollow">
+  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Once upon a star" />
   <br  />
-  <em>Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills + Motion)</em>
+  <em>Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
