@@ -2,15 +2,15 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-11-10 15:23.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762759415044" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-11-10 16:33.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762763635127" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>迄今所有人生都大写着失败，但不妨碍我继续向前。—— 狂铁</blockquote>
+<blockquote>我们就这样，生活在此地并不断离别。—— 后崩坏书</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=carl+sagan+day&amp;form=hpcapt&amp;filters=HpDate%3a%2220251109_0800%22" rel="nofollow">
-  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Once upon a star" />
+<a href="https://www.bing.com/search?q=Badlands+National+Park&amp;form=hpcapt&amp;filters=HpDate%3a%2220251110_0800%22" rel="nofollow">
+  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Life hidden beneath the prairie" />
   <br  />
-  <em>Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)</em>
+  <em>Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota (© Greg Vaughn/Getty Images)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
