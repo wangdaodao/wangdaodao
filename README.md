@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-11-10 16:33.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762763635127" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-11-10 17:28.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762766934800" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>我们就这样，生活在此地并不断离别。—— 后崩坏书</blockquote>
+<blockquote>喜看稻菽千重浪，遍地英雄下夕烟。—— 毛泽东</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=Badlands+National+Park&amp;form=hpcapt&amp;filters=HpDate%3a%2220251110_0800%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Life hidden beneath the prairie" />
