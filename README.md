@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-11-12 00:31.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762878689511" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-11-12 01:22.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762881724546" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>如果生活还没能改变，那你已经失败了。—— 青钢影</blockquote>
+<blockquote>借问江潮与海水，何似君情与妾心？—— 白居易</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=Veterans+Day&amp;form=hpcapt&amp;filters=HpDate%3a%2220251111_0800%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Honoring their service" />
