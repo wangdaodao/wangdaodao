@@ -2,15 +2,15 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-11-11 15:24.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762845859683" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-11-11 16:32.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762849930645" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>在凄惨的处境中回忆幸福，是世间最大的痛苦—— 佚名</blockquote>
+<blockquote>我的名字，是奥里。—— 奥里</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=Badlands+National+Park&amp;form=hpcapt&amp;filters=HpDate%3a%2220251110_0800%22" rel="nofollow">
-  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Life hidden beneath the prairie" />
+<a href="https://www.bing.com/search?q=Veterans+Day&amp;form=hpcapt&amp;filters=HpDate%3a%2220251111_0800%22" rel="nofollow">
+  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Honoring their service" />
   <br  />
-  <em>Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota (© Greg Vaughn/Getty Images)</em>
+  <em>Marine Corps War Memorial, Arlington, Virginia (© f11photo/Shutterstock)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
