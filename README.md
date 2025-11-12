@@ -2,15 +2,15 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-11-12 15:24.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762932240353" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-11-12 16:34.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762936441331" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>当代价不再重要，人们也会对恐惧有所遗忘。—— The New Order:Last Days of Europe</blockquote>
+<blockquote>学而不厌，诲人不倦。—— 孔子</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=Veterans+Day&amp;form=hpcapt&amp;filters=HpDate%3a%2220251111_0800%22" rel="nofollow">
-  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Honoring their service" />
+<a href="https://www.bing.com/search?q=Colosseum+Rome&amp;form=hpcapt&amp;filters=HpDate%3a%2220251112_0800%22" rel="nofollow">
+  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="All roads lead to Rome" />
   <br  />
-  <em>Marine Corps War Memorial, Arlington, Virginia (© f11photo/Shutterstock)</em>
+  <em>Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
