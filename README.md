@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-11-12 22:26.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762957567444" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-11-12 23:28.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1762961284940" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>简单的东西不是最好的，但最好的东西一定是简单的。—— 刘同</blockquote>
+<blockquote>知道和感觉到是两码事。—— 佚名</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=Colosseum+Rome&amp;form=hpcapt&amp;filters=HpDate%3a%2220251112_0800%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="All roads lead to Rome" />
