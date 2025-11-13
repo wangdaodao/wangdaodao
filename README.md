@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-11-13 21:35.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1763040948587" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-11-13 22:23.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1763043824746" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>举杯邀明月，对影成三人。—— 李白</blockquote>
+<blockquote>每个星期天到她的祭坛前弄乱她玫瑰的，并不是那来无去影的风。—— 马尔克斯</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=quiver+tree&amp;form=hpcapt&amp;filters=HpDate%3a%2220251113_0800%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Quivering under starlight" />
