@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-11-15 01:21.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1763140892721" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-11-15 02:34.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1763145264156" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>心似已灰之木，身如不系之舟。问汝平生功业，黄州惠州儋州。—— 苏轼</blockquote>
+<blockquote>出师未捷身先死，长使英雄泪满襟。—— 杜甫</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=Manatee+Awareness&amp;form=hpcapt&amp;filters=HpDate%3a%2220251114_0800%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="A slow reminder for a fast world" />
