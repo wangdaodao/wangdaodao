@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-11-14 23:22.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1763133755224" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-11-15 00:31.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1763137888792" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>每个人的心里，都有一个忘不记，却无法拥抱珍惜的人。—— 佚名</blockquote>
+<blockquote>资本来到世间，从头到脚每个毛孔都滴着血和肮脏的东西。—— 卡尔·海因里希·马克思</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=Manatee+Awareness&amp;form=hpcapt&amp;filters=HpDate%3a%2220251114_0800%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="A slow reminder for a fast world" />
