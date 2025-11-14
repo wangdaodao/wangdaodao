@@ -2,15 +2,15 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-11-14 15:23.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1763105031631" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-11-14 16:32.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1763109130733" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>近乡情更怯，不敢问来人。—— 宋之问</blockquote>
+<blockquote>从今往后，彼此依赖，彼此知觉。彼此珍贵，彼此喜爱。—— TinSunset</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=quiver+tree&amp;form=hpcapt&amp;filters=HpDate%3a%2220251113_0800%22" rel="nofollow">
-  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Quivering under starlight" />
+<a href="https://www.bing.com/search?q=Manatee+Awareness&amp;form=hpcapt&amp;filters=HpDate%3a%2220251114_0800%22" rel="nofollow">
+  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="A slow reminder for a fast world" />
   <br  />
-  <em>Quiver trees under the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)</em>
+  <em>Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
