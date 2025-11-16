@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-11-17 00:27.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1763310439826" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-11-17 01:19.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1763313552185" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>必须在敌军还分散的时候，出其不意地袭击他们。—— 佚名</blockquote>
+<blockquote>取法于上，仅得为中；取法于中，故为其下。—— 佚名</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=Traboules+of+Lyon&amp;form=hpcapt&amp;filters=HpDate%3a%2220251116_0800%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Passages with a past" />
