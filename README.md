@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-11-17 18:28.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1763375319760" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-11-17 19:21.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1763378479009" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>恰沐春风共同游，终只叹，木已舟。—— 佚名</blockquote>
+<blockquote>一味地追求理想，总有一天会被现实背叛。—— 查理</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=national+take+a+hike+day&amp;form=hpcapt&amp;filters=HpDate%3a%2220251117_0800%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="The trails&#39; call" />
