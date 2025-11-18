@@ -17,5 +17,5 @@ jobs:
         with:
           max_post_count: 10
           date_format: "yyyy-mm-dd"
-          feed_list: "https://wangdaodao.com/feed/atom/"
+          feed_list: "https://wangdaodao.com/feed/"
           template: "<li><a href='$url' target='_blank'>$title</a><em>   [$date]</em></li>"
