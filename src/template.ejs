@@ -58,13 +58,22 @@
 
 <h2>📦 My typecho plugins ...</h2>
 
-<ol>
-  <% plugins.forEach(function(plugin){ %>
-  <li>
-      <%= plugin.name %> : <%= plugin.description %>
-  </li>
-  <% }); %>
-</ol>
+<table>
+  <thead>
+    <tr>
+      <th>Plugin</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% plugins.forEach(function(plugin){ %>
+    <tr>
+      <td><%= plugin.name %></td>
+      <td><%= plugin.description %></td>
+    </tr>
+    <% }); %>
+  </tbody>
+</table>
 
 <a href="https://github.com/wangdaodao/TypechoPlugins">➡️ More plugins</a>
 
