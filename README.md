@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-11-18 17:27.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1763458053242" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-11-18 17:49.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1763459347664" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>愿风指引着你的道路，愿你的刀刃永远锋利。—— 佚名</blockquote>
+<blockquote>宁不知倾城与倾国。佳人难再得。—— 李延年</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=Hooded+merganser&amp;form=hpcapt&amp;filters=HpDate%3a%2220251118_0800%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Fall&#39;s feathered headliner" />
@@ -50,6 +50,18 @@ will be updated automatically, last updated: (UTC+8) 2025-11-18 17:27.</p>
   : A flv.js player component for Vue.js.</li>
 </ol>
 <a href="https://www.npmjs.com/~wangdaodao">➡️ More packages</a>
+<h2>📦 My typecho plugins ...</h2>
+<ol>
+  <li>
+  AdminImagePreview : Add image preview function to Typecho attachment management page and article editing page.</li>
+  <li>
+  AdminStyle : Used to modify the Typecho management interface style, supporting multiple preset themes and custom CSS code.</li>
+  <li>
+  BilibiliPlayer : Replace the default Bilibili player with an HTML5 mobile player and provide more customization options.</li>
+  <li>
+  Panorama : Embed panoramic images in the article, supporting two types: equidistant cylindrical projection and cube mapping.</li>
+</ol>
+<a href="https://github.com/wangdaodao/TypechoPlugins">➡️ More plugins</a>
 <h2>🔭 I’m currently working with ...</h2>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="badge.name"  />
