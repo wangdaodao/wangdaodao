@@ -10,6 +10,7 @@ const hitokotos = require("./apis/hitokoto");
 // const twitters = require("./apis/twitter");
 const badges = require("./constants/badges");
 const packages = require("./constants/packages");
+const plugins = require("./constants/typecho");
 const dayjs = require("dayjs");
 const utc = require("dayjs/plugin/utc");
 dayjs.extend(utc);
@@ -36,6 +37,7 @@ const main = async () => {
     // twitter,
     badges,
     packages,
+    plugins,
     background,
     hitokoto,
     timeStamp,
