@@ -14,8 +14,7 @@ will be updated automatically, last updated: (UTC+8) 2025-11-28 17:26.</p>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><li><a href='https://wangdaodao.com/20251122/typecho-track.html' target='_blank'>发布Typecho足迹插件</a><em>   [2025-11-22]</em></li><li><a href='https://wangdaodao.com/20251120/ai-programming-sharing.html' target='_blank'>一次AI编程的分享</a><em>   [2025-11-20]</em></li><li><a href='https://wangdaodao.com/20251117/amap-track.html' target='_blank'>基于高德地图做足迹管理插件</a><em>   [2025-11-17]</em></li><li><a href='https://wangdaodao.com/20251113/typecho-admin-plugins.html' target='_blank'>开源两个后台美化插件</a><em>   [2025-11-13]</em></li><li><a href='https://wangdaodao.com/20251111/the-simplicity-philosophy-of-typecho.html' target='_blank'>Typecho的简洁哲学</a><em>   [2025-11-11]</em></li><li><a href='https://wangdaodao.com/20251108/typecho-comments-max-levels.html' target='_blank'>Typecho如何实现评论无限嵌套</a><em>   [2025-11-08]</em></li><li><a href='https://wangdaodao.com/20251106/typecho-panorama-plugin.html' target='_blank'>开源Panorama全景图插件</a><em>   [2025-11-06]</em></li><li><a href='https://wangdaodao.com/20251104/racknerd-renew.html' target='_blank'>服务器续费了</a><em>   [2025-11-04]</em></li><li><a href='https://wangdaodao.com/20251101/typecho-bilibili-player.html' target='_blank'>开源Bilibili播放器插件</a><em>   [2025-11-01]</em></li><li><a href='https://wangdaodao.com/20251030/typecho-pannellum.html' target='_blank'>折腾一个Typecho 360全景插件</a><em>   [2025-10-30]</em></li><!-- BLOG-POST-LIST:END -->
 </ol>
 <a href="https://wangdaodao.com/">➡️ More blog posts</a>
 <h2>📦 My publish packages ...</h2>
