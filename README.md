@@ -14,8 +14,7 @@ will be updated automatically, last updated: (UTC+8) 2025-12-16 16:37.</p>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><li><a href='https://wangdaodao.com/20251214/2025-summary.html' target='_blank'>2025年终总结</a><em>   [2025-12-14]</em></li><li><a href='https://wangdaodao.com/20251210/typecho-edge-one.html' target='_blank'>Typecho博客开启EdgeOne</a><em>   [2025-12-10]</em></li><li><a href='https://wangdaodao.com/20251206/typecho-plugins-AI-text-polish.html' target='_blank'>发布一个Typecho AI文本润色插件</a><em>   [2025-12-06]</em></li><li><a href='https://wangdaodao.com/20251203/typecho-plugin-amap.html' target='_blank'>开源高德地图及规划路径短代码插件</a><em>   [2025-12-03]</em></li><li><a href='https://wangdaodao.com/20251128/bookkeeping.html' target='_blank'>开始记账了</a><em>   [2025-11-28]</em></li><li><a href='https://wangdaodao.com/20251122/typecho-track.html' target='_blank'>发布Typecho足迹插件</a><em>   [2025-11-22]</em></li><li><a href='https://wangdaodao.com/20251120/ai-programming-sharing.html' target='_blank'>一次AI编程的分享</a><em>   [2025-11-20]</em></li><li><a href='https://wangdaodao.com/20251117/amap-track.html' target='_blank'>基于高德地图做足迹管理插件</a><em>   [2025-11-17]</em></li><li><a href='https://wangdaodao.com/20251113/typecho-admin-plugins.html' target='_blank'>开源两个后台美化插件</a><em>   [2025-11-13]</em></li><li><a href='https://wangdaodao.com/20251111/the-simplicity-philosophy-of-typecho.html' target='_blank'>Typecho的简洁哲学</a><em>   [2025-11-11]</em></li><!-- BLOG-POST-LIST:END -->
 </ol>
 <a href="https://wangdaodao.com/">➡️ More blog posts</a>
 <h2>📦 My publish packages ...</h2>
