@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2025-12-23 00:33.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1766421193520" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2025-12-23 01:23.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1766424210431" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>宇宙很大，生活更大也许以后有缘再相见—— 佚名</blockquote>
+<blockquote>如果真是这样， 就由我来把彭格列毁灭！—— 佚名</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=The+Nutcracker&amp;form=hpcapt&amp;filters=HpDate%3a%2220251222_0800%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.NutcrackerAnkara_EN-US5537620581_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="From Hoffmann&#39;s pages to global stages" />
@@ -14,7 +14,8 @@ will be updated automatically, last updated: (UTC+8) 2025-12-23 00:33.</p>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
-  <!-- BLOG-POST-LIST:START --><li><a href='https://wangdaodao.com/20251220/dou-yin-player.html' target='_blank'>开源Typecho抖音播放器插件</a><em>   [2025-12-20]</em></li><li><a href='https://wangdaodao.com/20251214/2025-summary.html' target='_blank'>2025年终总结</a><em>   [2025-12-14]</em></li><li><a href='https://wangdaodao.com/20251210/typecho-edge-one.html' target='_blank'>Typecho博客开启EdgeOne</a><em>   [2025-12-10]</em></li><li><a href='https://wangdaodao.com/20251206/typecho-plugins-AI-text-polish.html' target='_blank'>发布一个Typecho AI文本润色插件</a><em>   [2025-12-06]</em></li><li><a href='https://wangdaodao.com/20251203/typecho-plugin-amap.html' target='_blank'>开源高德地图及规划路径短代码插件</a><em>   [2025-12-03]</em></li><li><a href='https://wangdaodao.com/20251128/bookkeeping.html' target='_blank'>开始记账了</a><em>   [2025-11-28]</em></li><li><a href='https://wangdaodao.com/20251122/typecho-track.html' target='_blank'>发布Typecho足迹插件</a><em>   [2025-11-22]</em></li><li><a href='https://wangdaodao.com/20251120/ai-programming-sharing.html' target='_blank'>一次AI编程的分享</a><em>   [2025-11-20]</em></li><li><a href='https://wangdaodao.com/20251117/amap-track.html' target='_blank'>基于高德地图做足迹管理插件</a><em>   [2025-11-17]</em></li><li><a href='https://wangdaodao.com/20251113/typecho-admin-plugins.html' target='_blank'>开源两个后台美化插件</a><em>   [2025-11-13]</em></li><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </ol>
 <a href="https://wangdaodao.com/">➡️ More blog posts</a>
 <h2>📦 My publish packages ...</h2>
