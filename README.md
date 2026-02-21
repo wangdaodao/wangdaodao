@@ -2,15 +2,15 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2026-02-21 15:36.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1771659393529" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2026-02-21 16:38.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1771663092120" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>如此生活30年，直到大厦崩塌。—— 万能青年旅店</blockquote>
+<blockquote>无可奈何花落去，似曾相识燕归来。—— 晏殊</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=Horsetail+Fall+Yosemite+National+Park&amp;form=hpcapt&amp;filters=HpDate%3a%2220260220_0800%22" rel="nofollow">
-  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.AdamsFirefall_EN-US2580399078_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Where light falls" />
+<a href="https://www.bing.com/search?q=Red+fox&amp;form=hpcapt&amp;filters=HpDate%3a%2220260221_0800%22" rel="nofollow">
+  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.TetonFox_EN-US2616700325_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Whispers of winter" />
   <br  />
-  <em>Horsetail Fall in Yosemite National Park, California (© Jorge Villalba/Getty Images)</em>
+  <em>Red fox standing in snowfall, Grand Teton National Park, Wyoming (© Radomir Jakubowski/naturepl.com)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
