@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2026-03-20 23:50.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1774021809571" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2026-03-21 00:52.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1774025558165" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>乱世邯郸生祖龙，书文四方车轨同，青山秋草树丛从。—— The New Order:Last Days of Europe</blockquote>
+<blockquote>月儿弯弯照九州，几家欢乐几家愁。—— 佚名</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=March+equinox&amp;form=hpcapt&amp;filters=HpDate%3a%2220260320_0700%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-US5032204696_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="The quiet bloom of change" />
