@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2026-04-14 20:00.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1776168048693" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2026-04-14 22:51.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1776178311863" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>唯有前进，才能享受这被诅咒的疯狂。—— 佚名</blockquote>
+<blockquote>舍其所争、取其所弃，方能交流天下、得我所欲。—— 忘归人·停云</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=sea+anemone&amp;form=hpcapt&amp;filters=HpDate%3a%2220260414_0700%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.OcellarisClownfish_EN-US8509728179_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Reefside roommates" />
@@ -14,7 +14,8 @@ will be updated automatically, last updated: (UTC+8) 2026-04-14 20:00.</p>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
-  <!-- BLOG-POST-LIST:START --><li><a href='https://wangdaodao.com/20260228/my-younger-brother.html' target='_blank'>无题</a><em>   [2026-02-28]</em></li><li><a href='https://wangdaodao.com/20260112/trivial-matters.html' target='_blank'>一些杂事</a><em>   [2026-01-12]</em></li><li><a href='https://wangdaodao.com/20260105/montelukast.html' target='_blank'>关于孟鲁司特钠的不良反应</a><em>   [2026-01-05]</em></li><li><a href='https://wangdaodao.com/20251226/typecho-netease-qq-player.html' target='_blank'>开源网易云及QQ音乐播放插件</a><em>   [2025-12-26]</em></li><li><a href='https://wangdaodao.com/20251220/dou-yin-player.html' target='_blank'>开源Typecho抖音播放器插件</a><em>   [2025-12-20]</em></li><li><a href='https://wangdaodao.com/20251214/2025-summary.html' target='_blank'>2025年终总结</a><em>   [2025-12-14]</em></li><li><a href='https://wangdaodao.com/20251210/typecho-edge-one.html' target='_blank'>Typecho博客开启EdgeOne</a><em>   [2025-12-10]</em></li><li><a href='https://wangdaodao.com/20251206/typecho-plugins-AI-text-polish.html' target='_blank'>发布一个Typecho AI文本润色插件</a><em>   [2025-12-06]</em></li><li><a href='https://wangdaodao.com/20251203/typecho-plugin-amap.html' target='_blank'>开源高德地图及规划路径短代码插件</a><em>   [2025-12-03]</em></li><li><a href='https://wangdaodao.com/20251128/bookkeeping.html' target='_blank'>开始记账了</a><em>   [2025-11-28]</em></li><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </ol>
 <a href="https://wangdaodao.com/">➡️ More blog posts</a>
 <h2>📦 My publish packages ...</h2>
