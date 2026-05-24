@@ -2,15 +2,15 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2026-05-24 13:04.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1779599097473" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2026-05-24 16:37.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1779611824854" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>为学日益，为道日损。—— 李耳</blockquote>
+<blockquote>批判的武器当然不能代替武器的批判。—— 马克思</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=World+Turtle+Day&amp;form=hpcapt&amp;filters=HpDate%3a%2220260523_0700%22" rel="nofollow">
-  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Shell yeah, turtles!" />
+<a href="https://www.bing.com/search?q=European+Day+of+Parks&amp;form=hpcapt&amp;filters=HpDate%3a%2220260524_0700%22" rel="nofollow">
+  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.DolomitesPark_EN-US0828472809_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Preserving Europe&#39;s wild places" />
   <br  />
-  <em>Turtles with butterflies (© Patrick Gallet/Getty Images)</em>
+  <em>Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
