@@ -2,15 +2,15 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2026-05-25 12:20.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1779682841033" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2026-05-25 17:00.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1779699619022" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>用你的笑容去改变这个世界，别让这个世界改变了你的笑容。—— 佚名</blockquote>
+<blockquote>月色与雪色之间，你是第三种绝色。—— 余光中</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=European+Day+of+Parks&amp;form=hpcapt&amp;filters=HpDate%3a%2220260524_0700%22" rel="nofollow">
-  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.DolomitesPark_EN-US0828472809_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Preserving Europe&#39;s wild places" />
+<a href="https://www.bing.com/search?q=Memorial+Day&amp;form=hpcapt&amp;filters=HpDate%3a%2220260525_0700%22" rel="nofollow">
+  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Where silence bears names" />
   <br  />
-  <em>Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)</em>
+  <em>Memorial Amphitheater at Arlington National Cemetery, Arlington, Virginia (© idesignimages/Getty Images)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
