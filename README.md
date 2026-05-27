@@ -2,15 +2,15 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2026-05-27 13:20.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1779859238751" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2026-05-27 18:04.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1779876274269" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>缘起，我在人群中看见你；缘落，我看见你在人群中。—— 网友</blockquote>
+<blockquote>东隅已逝，桑榆非晚。—— 王勃</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=Lupinus&amp;form=hpcapt&amp;filters=HpDate%3a%2220260526_0700%22" rel="nofollow">
-  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.LupineBloom_EN-US0920778137_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="A season written in lupine" />
+<a href="https://www.bing.com/search?q=World+otter+day&amp;form=hpcapt&amp;filters=HpDate%3a%2220260527_0700%22" rel="nofollow">
+  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.OtterDay_EN-US0973120905_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="No &#39;otter&#39; like them" />
   <br  />
-  <em>Lupine flowers in bloom, Northern California (© Jeffrey Lewis/Tandem Stills + Motion)</em>
+  <em>Sea otter, Kachemak Bay, Homer, Alaska (© roclwyr/Getty Images)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
