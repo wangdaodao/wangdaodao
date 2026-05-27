@@ -2,10 +2,10 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2026-05-27 22:29.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1779892148545" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2026-05-28 02:04.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1779905049469" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>取法于上，仅得为中；取法于中，故为其下。—— 佚名</blockquote>
+<blockquote>有三秋桂子，十里荷花。—— 柳永</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
 <a href="https://www.bing.com/search?q=World+otter+day&amp;form=hpcapt&amp;filters=HpDate%3a%2220260527_0700%22" rel="nofollow">
   <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.OtterDay_EN-US0973120905_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="No &#39;otter&#39; like them" />
