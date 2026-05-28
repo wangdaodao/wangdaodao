@@ -2,15 +2,15 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2026-05-28 12:08.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1779941326206" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2026-05-28 16:46.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1779958001018" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>荷叶罗裙一色裁，芙蓉向脸两边开。—— 王昌龄</blockquote>
+<blockquote>妆罢低声问夫婿，画眉深浅入时无。—— 朱庆馀</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=World+otter+day&amp;form=hpcapt&amp;filters=HpDate%3a%2220260527_0700%22" rel="nofollow">
-  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.OtterDay_EN-US0973120905_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="No &#39;otter&#39; like them" />
+<a href="https://www.bing.com/search?q=hwaseong+fortress+suwon&amp;form=hpcapt&amp;filters=HpDate%3a%2220260528_0700%22" rel="nofollow">
+  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Design meets discipline" />
   <br  />
-  <em>Sea otter, Kachemak Bay, Homer, Alaska (© roclwyr/Getty Images)</em>
+  <em>Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
