@@ -2,15 +2,15 @@
 <p>I live in Beijing/Tianjin, China. A developer who loves open source!</p>
 <p>
 ⭐️ Star&nbsp<a href="https://github.com/wangdaodao/wangdaodao">my homepage</a>
-will be updated automatically, last updated: (UTC+8) 2026-06-02 12:40.</p>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1780375214804" alt="contributions snake" />
+will be updated automatically, last updated: (UTC+8) 2026-06-02 17:12.</p>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/wangdaodao/wangdaodao/output/github-contribution-grid-snake.svg?t=1780391546440" alt="contributions snake" />
 <h2>📝 Hitokoto</h2>
-<blockquote>执手相看泪眼，竟无语凝噎。—— 柳永</blockquote>
+<blockquote>若言琴上有琴声，放在匣中何不鸣？—— 苏轼</blockquote>
 <h2>🌈 Daily Bing Wallpaper</h2>
-<a href="https://www.bing.com/search?q=Pride+Month+US&amp;form=hpcapt&amp;filters=HpDate%3a%2220260601_0700%22" rel="nofollow">
-  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Pride in plain sight" />
+<a href="https://www.bing.com/search?q=Qaidam+Basin+China&amp;form=hpcapt&amp;filters=HpDate%3a%2220260602_0700%22" rel="nofollow">
+  <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.Qinghai_EN-US8807254633_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="Between the blues" />
   <br  />
-  <em>Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)</em>
+  <em>Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)</em>
 </a>
 <h2>📚 My Blog posts ...</h2>
 <ol>
